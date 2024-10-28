@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ['latin'], weight: "600" })
 export const metadata: Metadata = {
   title: "Space Portfolio",
   description: "This is my portfolio",
+  icons: "/images/NavLogo.png",
 };
 
 export default function RootLayout({
